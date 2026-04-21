@@ -453,6 +453,8 @@ results = model.predict(
 | YOLO-Master-EsMoE-L | 🔥training | TBD | TBD | TBD | TBD | TBD | TBD |
 | YOLO-Master-EsMoE-X | 🔥training | TBD | TBD | TBD | TBD | TBD | TBD |
 
+Configs (main): [N](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-n.yaml) (primary), [S](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-s.yaml), [M](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-m.yaml)
+
 ### YOLO-Master-v0.1 Series
 
 | Model | Params(M) | GFLOPs(G) | Box(P) | R | mAP50 | mAP50-95 | Speed (4090 TRT) FPS |
