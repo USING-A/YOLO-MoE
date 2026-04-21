@@ -447,6 +447,8 @@ results = model.predict(
 | YOLO-Master-EsMoE-L | 🔥训练中 | TBD | TBD | TBD | TBD | TBD | TBD |
 | YOLO-Master-EsMoE-X | 🔥训练中 | TBD | TBD | TBD | TBD | TBD | TBD |
 
+配置文件（main）：[N](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-n.yaml)（主配置）, [S](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-s.yaml), [M](https://github.com/USING-A/YOLO-MoE/blob/main/ultralytics/cfg/models/master/v0/det/yolo-master-m.yaml)
+
 ### YOLO-Master-v0.1 系列
 
 | 模型 | 参数量(M) | GFLOPs(G) | Box(P) | R | mAP50 | mAP50-95 | 速度 (4090 TRT) FPS |
